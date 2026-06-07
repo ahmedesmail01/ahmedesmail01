@@ -4,7 +4,7 @@ Hi, i'm Ahmed Esmail
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+frontend+developer;basic+UI+designer;freelancer;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Software+Engineer;basic+UI+designer;freelancer;&center=true&width=380&height=45"></a>
 </p>
 
 ![profile views](https://komarev.com/ghpvc/?username=ahmedesmail01&style=for-the-badge)
@@ -14,12 +14,9 @@ Hi, i'm Ahmed Esmail
 ```
 ahmedesmail01@github
 ----------------
-💻 I am a self taught FrontEnd Developer
+💻 I am a self taught Software Engineer
 📝 I have a strong interest in Web Development
-🔭 Working on Huge FronEnd Projects
-🌱 Learning about BackEnd
-🌟 Main languages: JavaScript
-🚩 Interested in Full Stack Web Development - MERN Stack
+🔭 Working on Huge Software Projects
 ```
 
 <hr>
@@ -67,6 +64,9 @@ ahmedesmail01@github
 <br>
 <br>
 <p align="center">
+  <video autoplay muted loop width="250" playsinline>
+  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/java-logo-animation-gif-download-12875022.mp4" type="video/mp4" />
+</video>
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
